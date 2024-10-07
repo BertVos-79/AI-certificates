@@ -140,25 +140,17 @@ It consists of the following rubrics:
 > ## C2. Process Modeling
 
 >> #### Celonis Foundations  
->> [Certificate](https://www.credly.com/badges/ae7df360-ad42-4554-a8ce-2fe881b296e5/linked_in_profile)  
->> [Course Catalog](https://academy.celonis.com/courses/celonis-kickstarter-1)
+>> [Certificate](https://www.credly.com/badges/ae7df360-ad42-4554-a8ce-2fe881b296e5/linked_in_profile) - [Course Catalog](https://academy.celonis.com/courses/celonis-kickstarter-1)
 
 ---
 
 >> #### Celonis - Build Analyses  
->> [Certificate](https://www.credly.com/badges/848f5b3d-eccf-46f9-8cdc-e6bfc95b0336/linked_in_profile)  
->> [Course Catalog](https://academy.celonis.com/learning-paths/build-analyses-basics?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
+>> [Certificate](https://www.credly.com/badges/848f5b3d-eccf-46f9-8cdc-e6bfc95b0336/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/build-analyses-basics?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
 
 ---
 
 >> #### Celonis - Review and Interpret Analyses  
->> [Certificate](https://www.credly.com/badges/eb3326
-
----
-
->> #### Celonis - Review and Interpret Analyses  
->> [Certificate](https://www.credly.com/badges/eb3326e6-37d0-43bc-96c9-22e6f76f6421/linked_in_profile)  
->> [Course Catalog](https://academy.celonis.com/learning-paths/review-and-interpret-analyses?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
+>> [Certificate](https://www.credly.com/badges/eb3326e6-37d0-43bc-96c9-22e6f76f6421/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/review-and-interpret-analyses?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
 
 ---
 
