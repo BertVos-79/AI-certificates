@@ -139,7 +139,7 @@ It consists of the following rubrics:
 
 > ## C2. Process Modeling
 
->> #### Celonis Foundations  
+>> #### Celonis - Foundations  
 >> [Certificate](https://www.credly.com/badges/ae7df360-ad42-4554-a8ce-2fe881b296e5/linked_in_profile) - [Course Catalog](https://academy.celonis.com/courses/celonis-kickstarter-1)
 
 ---
