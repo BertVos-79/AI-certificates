@@ -54,6 +54,9 @@ It consists of the following rubrics:
 
 >> ### General
 
+>>> #### Unix Systems Basics (Codio)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/KN9M0XSQ2S8P) - [Course Catalog](https://www.coursera.org/learn/codio-unix-system-basics)
+
 >>> #### Technical Support Fundamentals (Google)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/A4ZQN9JNTTAY) - [Course Catalog](https://www.coursera.org/learn/technical-support-fundamentals)
 
