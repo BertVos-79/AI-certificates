@@ -57,6 +57,9 @@ It consists of the following rubrics:
 >>> #### Unix Systems Basics (Codio)
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/KN9M0XSQ2S8P) - [Course Catalog](https://www.coursera.org/learn/codio-unix-system-basics)
 
+>>> #### Version Control: Git and Github (Meta)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/N3PNRFFBHHG9) - [Course Catalog](https://www.coursera.org/learn/introduction-to-version-control)
+
 >>> #### Technical Support Fundamentals (Google)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/A4ZQN9JNTTAY) - [Course Catalog](https://www.coursera.org/learn/technical-support-fundamentals)
 
