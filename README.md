@@ -29,7 +29,7 @@ It consists of the following rubrics:
 ---
 
 >> #### Precalculus through Data and Modeling Specialization (Johns Hopkins University)
->> [Certificate]() - [Specialization Catalog](https://www.coursera.org/specializations/precalculus-data-modelling?)
+>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/Q9PKO2O06U95) - [Specialization Catalog](https://www.coursera.org/specializations/precalculus-data-modelling?)
 
 >>> 1. **Precalculus: Relations and Functions**  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/BEGSUW92DT7C) - [Course Catalog](https://www.coursera.org/learn/precalculus-relations-functions)
@@ -38,7 +38,7 @@ It consists of the following rubrics:
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/V5MCXFDMTOXL) - [Course Catalog](https://www.coursera.org/learn/precalculus-periodic-functions?specialization=precalculus-data-modelling)
 
 >>> 3. **Precalculus: Mathematical Modeling**  
->>> [Certificate]() - [Course Catalog]()
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/FSCLA4IOTBF8) - [Course Catalog](https://www.coursera.org/learn/precalculus-mathematical-modelling)
 
 ---
 
