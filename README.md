@@ -42,7 +42,7 @@ It consists of the following rubrics:
 
 ---
 
->> #### Calculus through Data & Modeling Specialization (Johns Hopkins University)
+>> #### Differential Calculus through Data & Modeling Specialization (Johns Hopkins University)
 >> [Certificate](#) - [Specialization Catalog](https://www.coursera.org/specializations/differential-calculus-data-modeling)
 
 >>> 1. **Calculus through Data & Modeling: Precalculus Review**  
