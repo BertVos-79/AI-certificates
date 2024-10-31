@@ -42,6 +42,24 @@ It consists of the following rubrics:
 
 ---
 
+>> #### Calculus through Data & Modeling Specialization (Johns Hopkins University)
+>> [Certificate](#) - [Specialization Catalog](https://www.coursera.org/specializations/differential-calculus-data-modeling)
+
+>>> 1. **Calculus through Data & Modeling: Precalculus Review**  
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/20YM56TGCK7M) - [Course Catalog](https://www.coursera.org/learn/calculus-precalculus-review)
+
+>>> 2. **Calculus through Data & Modeling: Limits & Derivatives**  
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/R1A356WYOHXZ) - [Course Catalog](https://www.coursera.org/learn/calculus-limits-derivatives)
+
+>>> 3. **Calculus through Data & Modeling: Differentiation Rules**  
+>>> [Certificate](#) - [Course Catalog](https://www.coursera.org/learn/calculus-differentiation-rules)
+
+>>> 4. **Calculus through Data & Modeling: Applying Differentiation**  
+>>> [Certificate](#) - [Course Catalog](https://www.coursera.org/learn/calculus-applying-differentiation)
+
+
+---
+
 >> #### Data Science Math Skills (Duke University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/HWHAK77WMMWJ) - [Course Catalog](https://www.coursera.org/learn/datasciencemathskills)
 
