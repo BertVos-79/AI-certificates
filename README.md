@@ -52,7 +52,7 @@ It consists of the following rubrics:
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/R1A356WYOHXZ) - [Course Catalog](https://www.coursera.org/learn/calculus-limits-derivatives)
 
 >>> 3. **Calculus through Data & Modeling: Differentiation Rules**  
->>> [Certificate](#) - [Course Catalog](https://www.coursera.org/learn/calculus-differentiation-rules)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/9O4YLILK1U9V) - [Course Catalog](https://www.coursera.org/learn/calculus-differentiation-rules)
 
 >>> 4. **Calculus through Data & Modeling: Applying Differentiation**  
 >>> [Certificate](#) - [Course Catalog](https://www.coursera.org/learn/calculus-applying-differentiation)
