@@ -43,7 +43,7 @@ It consists of the following rubrics:
 ---
 
 >> #### Differential Calculus through Data & Modeling Specialization (Johns Hopkins University)
->> [Certificate](#) - [Specialization Catalog](https://www.coursera.org/specializations/differential-calculus-data-modeling)
+>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/0KZTZ6DA2XED) - [Specialization Catalog](https://www.coursera.org/specializations/differential-calculus-data-modeling)
 
 >>> 1. **Calculus through Data & Modeling: Precalculus Review**  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/20YM56TGCK7M) - [Course Catalog](https://www.coursera.org/learn/calculus-precalculus-review)
@@ -55,7 +55,7 @@ It consists of the following rubrics:
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/9O4YLILK1U9V) - [Course Catalog](https://www.coursera.org/learn/calculus-differentiation-rules)
 
 >>> 4. **Calculus through Data & Modeling: Applying Differentiation**  
->>> [Certificate](#) - [Course Catalog](https://www.coursera.org/learn/calculus-applying-differentiation)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/RN1GV7N2I58E) - [Course Catalog](https://www.coursera.org/learn/calculus-applying-differentiation)
 
 
 ---
