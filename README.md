@@ -114,6 +114,12 @@ It consists of the following rubrics:
 
 ---
 
+>> ### NumPy
+
+>>> #### Preprocessing Data with NumPy (365 Careers)
+>>> [Certificate](https://www.udemy.com/certificate/UC-64ea18eb-df50-4b43-b56f-c7bd99649c9a/) - [Course Catalog](https://www.udemy.com/course/preprocessing-data-with-numpy/?srsltid=AfmBOoo-Mlqu7WZjYjoTOJLUpQs2-17LaegiNsGXsZggYbWup99oqRoo&couponCode=BFCPSALE24)
+---
+
 >> ### R
 
 >>> #### Introduction to Probability and Data with R (Duke University)  
