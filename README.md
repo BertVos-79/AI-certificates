@@ -118,6 +118,23 @@ It consists of the following rubrics:
 
 >>> #### Preprocessing Data with NumPy (365 Careers)
 >>> [Certificate](https://www.udemy.com/certificate/UC-64ea18eb-df50-4b43-b56f-c7bd99649c9a/) - [Course Catalog](https://www.udemy.com/course/preprocessing-data-with-numpy/?srsltid=AfmBOoo-Mlqu7WZjYjoTOJLUpQs2-17LaegiNsGXsZggYbWup99oqRoo&couponCode=BFCPSALE24)
+
+---
+
+>> ### Pandas
+
+>>> #### Data Analysis with Pandas and Python Specialization (Packt Publishers)  
+>>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/1WLAORRSCWPS) - [Specialization Catalog](https://www.coursera.org/specializations/packt-data-analysis-with-pandas-and-python)
+
+>>>> 1. **Foundations of Data Analysis with Pandas and Python**  
+>>>> [Certificate](https://www.coursera.org/account/accomplishments/certificate/GYIF919LPAEF) - [Course Catalog](https://www.coursera.org/learn/packt-foundations-of-data-analysis-with-pandas-and-python-hmwp9?specialization=packt-data-analysis-with-pandas-and-python)
+
+>>>> 2. **Intermediate Data Analysis Techniques with Pandas**  
+>>>> [Certificate](https://www.coursera.org/account/accomplishments/certificate/4DBPFQANVZVM) - [Course Catalog](https://www.coursera.org/learn/packt-intermediate-data-analysis-techniques-with-pandas-ofifg?specialization=packt-data-analysis-with-pandas-and-python)
+
+>>>> 3. **Advanced Data Analysis and Visualization with Pandas**  
+>>>> [Certificate](https://www.coursera.org/account/accomplishments/certificate/NGINBZ9GLLP3) - [Course Catalog](https://www.coursera.org/learn/packt-advanced-data-analysis-and-visualization-with-pandas-ofifg?specialization=packt-data-analysis-with-pandas-and-python)
+
 ---
 
 >> ### R
