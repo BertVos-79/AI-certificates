@@ -237,24 +237,19 @@ This repository contains certificates I obtained in the broad field of Data Scie
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/VNO9UE248RO3) - [Specialization Catalog](https://www.coursera.org/specializations/generative-ai-for-everyone)
 
 >>> 1. **Generative AI: Prompt Engineering Basics**  
->>> [Certificate](https://www.coursera.org/account/accomplishments/verify/5UNTCTA6SCBX)  
->>> [Course Catalog](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/5UNTCTA6SCBX) - [Course Catalog](https://www.coursera.org/learn/generative-ai-prompt-engineering-for-everyone)
 
 >>> 2. **Generative AI: Business Transformation and Career Growth**  
->>> [Certificate](https://www.coursera.org/account/accomplishments/verify/AMT25HW9MHBP)  
->>> [Course Catalog](https://www.coursera.org/learn/generative-ai-business-and-career-growth)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/AMT25HW9MHBP) - [Course Catalog](https://www.coursera.org/learn/generative-ai-business-and-career-growth)
 
 >>> 3. **Generative AI: Foundation Models and Platforms**  
->>> [Certificate](https://www.coursera.org/account/accomplishments/verify/9F2M8WW3TMLF)  
->>> [Course Catalog](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/9F2M8WW3TMLF) - [Course Catalog](https://www.coursera.org/learn/generative-ai-foundation-models-and-platforms)
 
 >>> 4. **Generative AI: Introduction and Applications**  
->>> [Certificate](https://www.coursera.org/account/accomplishments/verify/WETHA8XRU327)  
->>> [Course Catalog](https://www.coursera.org/learn/generative-ai-introduction-and-applications)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/WETHA8XRU327) - [Course Catalog](https://www.coursera.org/learn/generative-ai-introduction-and-applications)
 
 >>> 5. **Generative AI: Impact, Considerations, and Ethical Issues**  
->>> [Certificate](https://www.coursera.org/account/accomplishments/verify/3JXECGVHXVB3)  
->>> [Course Catalog](https://www.coursera.org/learn/generative-ai-ethical-considerations-and-implications)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/3JXECGVHXVB3) - [Course Catalog](https://www.coursera.org/learn/generative-ai-ethical-considerations-and-implications)
 
 ---
 
@@ -268,17 +263,14 @@ This repository contains certificates I obtained in the broad field of Data Scie
 ## D. Educational Applications in AI
 
 >> #### Introduction to Edtech (EDHEC Business School)  
->> [Certificate](https://www.coursera.org/account/accomplishments/verify/BK8LZ5WGAGZW)  
->> [Course Catalog](https://www.coursera.org/learn/introduction-to-edtech)
+>> [Certificate](https://www.coursera.org/account/accomplishments/verify/BK8LZ5WGAGZW) - [Course Catalog](https://www.coursera.org/learn/introduction-to-edtech)
 
 ---
 
 >> #### Generative AI in Education (University of Glasgow)  
->> [Certificate](https://www.coursera.org/account/accomplishments/verify/6QSFTBBPF544)  
->> [Course Catalog](https://www.coursera.org/learn/generative-ai-in-education)
+>> [Certificate](https://www.coursera.org/account/accomplishments/verify/6QSFTBBPF544) - [Course Catalog](https://www.coursera.org/learn/generative-ai-in-education)
 
 ---
 
 >> #### Online Education: The Foundations of Online Teaching (Macquarie University)  
->> [Certificate](https://www.coursera.org/account/accomplishments/verify/6M53ZXYWNLES)  
->> [Course Catalog](https://www.coursera.org/learn/the-foundations-of-online-teaching)
+>> [Certificate](https://www.coursera.org/account/accomplishments/verify/6M53ZXYWNLES) - [Course Catalog](https://www.coursera.org/learn/the-foundations-of-online-teaching)
