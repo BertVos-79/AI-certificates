@@ -137,14 +137,14 @@ This repository contains certificates I obtained in the broad field of Data Scie
 >>> #### NumPy
 
 >>> #### Preprocessing Data with NumPy (365 Careers)
->>> [Certificate](https://www.udemy.com/certificate/UC-64ea18eb-df50-4b43-b56f-c7bd99649c9a/) - [Course Catalog](https://www.udemy.com/course/preprocessing-data-with-numpy/?srsltid=AfmBOoo-Mlqu7WZjYjoTOJLUpQs2-17LaegiNsGXsZggYbWup99oqRoo&couponCode=BFCPSALE24) - [Link Text](https://github.com/BertVos-79/Udemy_Preprocessing-Data-with-NumPy_365-Careers)
+>>> [Certificate](https://www.udemy.com/certificate/UC-64ea18eb-df50-4b43-b56f-c7bd99649c9a/) - [Course Catalog](https://www.udemy.com/course/preprocessing-data-with-numpy/?srsltid=AfmBOoo-Mlqu7WZjYjoTOJLUpQs2-17LaegiNsGXsZggYbWup99oqRoo&couponCode=BFCPSALE24) - [Repository](https://github.com/BertVos-79/Udemy_Preprocessing-Data-with-NumPy_365-Careers)
 
 ---
 
 >>> #### Pandas
 
 >>> #### Data Analysis with Pandas and Python Specialization (Packt Publishers)  
->>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/1WLAORRSCWPS) - [Specialization Catalog](https://www.coursera.org/specializations/packt-data-analysis-with-pandas-and-python) - [Link Text]([https://github.com/BertVos-79/Udemy_Preprocessing-Data-with-NumPy_365-Careers](https://github.com/BertVos-79/data-analysis-with-pandas-and-python-specialization_packt))
+>>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/1WLAORRSCWPS) - [Specialization Catalog](https://www.coursera.org/specializations/packt-data-analysis-with-pandas-and-python) - [Repoistory](https://github.com/BertVos-79/data-analysis-with-pandas-and-python-specialization_packt)
 
 >>>> 1. **Foundations of Data Analysis with Pandas and Python**  
 >>>> [Certificate](https://www.coursera.org/account/accomplishments/certificate/GYIF919LPAEF) - [Course Catalog](https://www.coursera.org/learn/packt-foundations-of-data-analysis-with-pandas-and-python-hmwp9?specialization=packt-data-analysis-with-pandas-and-python)
