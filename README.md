@@ -144,7 +144,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 >>> #### Pandas
 
 >>> #### Data Analysis with Pandas and Python Specialization (Packt Publishers)  
->>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/1WLAORRSCWPS) - [Specialization Catalog](https://www.coursera.org/specializations/packt-data-analysis-with-pandas-and-python) - [Repoistory](https://github.com/BertVos-79/data-analysis-with-pandas-and-python-specialization_packt)
+>>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/1WLAORRSCWPS) - [Specialization Catalog](https://www.coursera.org/specializations/packt-data-analysis-with-pandas-and-python) - [Repository](https://github.com/BertVos-79/data-analysis-with-pandas-and-python-specialization_packt)
 
 >>>> 1. **Foundations of Data Analysis with Pandas and Python**  
 >>>> [Certificate](https://www.coursera.org/account/accomplishments/certificate/GYIF919LPAEF) - [Course Catalog](https://www.coursera.org/learn/packt-foundations-of-data-analysis-with-pandas-and-python-hmwp9?specialization=packt-data-analysis-with-pandas-and-python)
