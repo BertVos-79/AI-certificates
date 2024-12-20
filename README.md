@@ -1,18 +1,34 @@
 # Certificates
 
-This repository contains certificates I obtained in the broad field of Data Science and Artificial Intelligence (AI) on recognized platforms like Coursera, edX, DataCamp, and others. 
-
-It consists of the following rubrics:
-
-- **A. Fundamentals** (Mathematics, Statistics, Programming)
-- **B. Machine Learning** (Python, R, SAS, Tableau)
-- **C. Modeling and Artificial Intelligence** (Software Engineering, Process Modeling, Generative AI, Educational Applications of AI)
+This repository contains certificates I obtained in the broad field of Data Science and Artificial Intelligence (AI) on online platforms like Coursera, edX, DataCamp, Udemy, Deeplearning.ai and others. 
 
 ---
 
-# A. Fundamentals
+## Contents
 
-> ## A1. Mathematics
+**A. Fundamentals**
+
+- Mathematics
+- Statistics
+- Programming
+  
+**B. Modeling**
+
+- Software Engineering
+- Process Modeling
+  
+**C. Machine Learning & LLMs**
+
+- Machine Learning
+- LLMs
+
+**D. Education and AI**
+
+---
+
+## A. Fundamentals
+
+> ## Mathematics
 
 >> #### Algebra: Elementary to Advanced Specialization (Johns Hopkins University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/84L6QL2658NH) - [Specialization Catalog](https://www.coursera.org/specializations/algebra-elementary-to-advanced)
@@ -65,7 +81,7 @@ It consists of the following rubrics:
 
 ---
 
-> ## A2. Statistics
+> ## Statistics
 
 >> #### Inferential Statistics (Duke University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/E7Q7TTGQHU5N) - [Course Catalog](https://www.coursera.org/learn/inferential-statistics-intro)
@@ -77,9 +93,12 @@ It consists of the following rubrics:
 
 ---
 
-> ## A3. Programming
+> ## Programming
 
->> ### General
+>> ### OS, Unix, Git
+
+>>> #### Technical Support Fundamentals (Google)  
+>>> [Certificate](https://www.coursera.org/account/accomplishments/verify/A4ZQN9JNTTAY) - [Course Catalog](https://www.coursera.org/learn/technical-support-fundamentals)
 
 >>> #### Unix Systems Basics (Codio)
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/KN9M0XSQ2S8P) - [Course Catalog](https://www.coursera.org/learn/codio-unix-system-basics)
@@ -87,12 +106,11 @@ It consists of the following rubrics:
 >>> #### Version Control: Git and Github (Meta)
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/N3PNRFFBHHG9) - [Course Catalog](https://www.coursera.org/learn/introduction-to-version-control)
 
->>> #### Technical Support Fundamentals (Google)  
->>> [Certificate](https://www.coursera.org/account/accomplishments/verify/A4ZQN9JNTTAY) - [Course Catalog](https://www.coursera.org/learn/technical-support-fundamentals)
-
 ---
 
 >> ### Python
+
+>>> #### Base Library
 
 >>> #### Python 3 Programming Specialization (University of Michigan)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/809ENBAEAEKN) - [Specialization Catalog](https://www.coursera.org/specializations/python-3-programming)
@@ -114,14 +132,14 @@ It consists of the following rubrics:
 
 ---
 
->> ### NumPy
+>>> #### NumPy
 
 >>> #### Preprocessing Data with NumPy (365 Careers)
 >>> [Certificate](https://www.udemy.com/certificate/UC-64ea18eb-df50-4b43-b56f-c7bd99649c9a/) - [Course Catalog](https://www.udemy.com/course/preprocessing-data-with-numpy/?srsltid=AfmBOoo-Mlqu7WZjYjoTOJLUpQs2-17LaegiNsGXsZggYbWup99oqRoo&couponCode=BFCPSALE24)
 
 ---
 
->> ### Pandas
+>>> #### Pandas
 
 >>> #### Data Analysis with Pandas and Python Specialization (Packt Publishers)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/1WLAORRSCWPS) - [Specialization Catalog](https://www.coursera.org/specializations/packt-data-analysis-with-pandas-and-python)
@@ -168,7 +186,36 @@ It consists of the following rubrics:
 
 ---
 
-# B. Machine Learning
+## B. Modeling
+
+>> ### Software Engineering
+
+>>> #### UMLx: UML Class Diagrams for Software Engineering (KU LeuvenX)  
+>>> [Certificate](https://courses.edx.org/certificates/048deeeb38ff45b2bbb8e5f7fb842ca6) - [Course Catalog](https://www.edx.org/learn/software-engineering/ku-leuven-uml-class-diagrams-for-software-engineering)
+
+---
+
+>> ### Process Modeling
+
+>>> #### Celonis - Foundations  
+>>> [Certificate](https://www.credly.com/badges/ae7df360-ad42-4554-a8ce-2fe881b296e5/linked_in_profile) - [Course Catalog](https://academy.celonis.com/courses/celonis-kickstarter-1)
+
+---
+
+>>> #### Celonis - Build Analyses  
+>>> [Certificate](https://www.credly.com/badges/848f5b3d-eccf-46f9-8cdc-e6bfc95b0336/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/build-analyses-basics?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
+
+---
+
+>>> #### Celonis - Review and Interpret Analyses  
+>>> [Certificate](https://www.credly.com/badges/eb3326e6-37d0-43bc-96c9-22e6f76f6421/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/review-and-interpret-analyses?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
+
+---
+
+
+## C. Deep Learning & LLMs
+
+
 
 > #### Machine Learning Specialization  (Deeplearning.ai/Stanford University)  
 > [Certificate](https://www.coursera.org/account/accomplishments/specialization/HAQMADV8LFGQ) - [Specialization Catalog](https://www.coursera.org/specializations/machine-learning-introduction)
@@ -184,35 +231,7 @@ It consists of the following rubrics:
 
 ---
 
-# C. Modeling & Artificial Intelligence
-
-> ## C1. Software Engineering
-
->> #### UMLx: UML Class Diagrams for Software Engineering (KU LeuvenX)  
->> [Certificate](https://courses.edx.org/certificates/048deeeb38ff45b2bbb8e5f7fb842ca6) - [Course Catalog](https://www.edx.org/learn/software-engineering/ku-leuven-uml-class-diagrams-for-software-engineering)
-
----
-
-> ## C2. Process Modeling
-
->> #### Celonis - Foundations  
->> [Certificate](https://www.credly.com/badges/ae7df360-ad42-4554-a8ce-2fe881b296e5/linked_in_profile) - [Course Catalog](https://academy.celonis.com/courses/celonis-kickstarter-1)
-
----
-
->> #### Celonis - Build Analyses  
->> [Certificate](https://www.credly.com/badges/848f5b3d-eccf-46f9-8cdc-e6bfc95b0336/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/build-analyses-basics?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
-
----
-
->> #### Celonis - Review and Interpret Analyses  
->> [Certificate](https://www.credly.com/badges/eb3326e6-37d0-43bc-96c9-22e6f76f6421/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/review-and-interpret-analyses?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
-
----
-
-> ## C3. Generative AI
-
->> #### Generative AI Fundamentals Specialization (IBM)  
+>> #### Generative AI Specialization (IBM)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/VNO9UE248RO3)  
 >> [Specialization Catalog](https://www.coursera.org/specializations/generative-ai-for-everyone)
 
@@ -238,7 +257,15 @@ It consists of the following rubrics:
 
 ---
 
-> ## C4. Educational Applications in AI
+>> #### Short Courses 
+
+>>> Reasoning with o1 (Deeplearning.ai & OpenAI)
+>>> [Certificate](https://learn.deeplearning.ai/accomplishments/a6dc9bb8-7bd0-4cd0-8541-8963cc224de0)  
+>>> [Course Catalog](https://www.deeplearning.ai/short-courses/reasoning-with-o1/)
+
+---
+
+## D. Educational Applications in AI
 
 >> #### Introduction to Edtech (EDHEC Business School)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/BK8LZ5WGAGZW)  
