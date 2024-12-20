@@ -1,3 +1,5 @@
+![E-learning](Images/E-learning.png)
+
 # Certificates
 
 This repository contains certificates I obtained in the broad field of Data Science and Artificial Intelligence (AI) on online platforms like Coursera, edX, DataCamp, Udemy, Deeplearning.ai and others. 
