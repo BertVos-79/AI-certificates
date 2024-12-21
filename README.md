@@ -253,10 +253,13 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> #### Short Courses 
+>> #### Short Courses DeepLearning.ai
 
 >>> Reasoning with o1 (Deeplearning.ai & OpenAI)
->>> [Certificate](https://learn.deeplearning.ai/accomplishments/a6dc9bb8-7bd0-4cd0-8541-8963cc224de0) - [Course Catalog](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) 
+>>> [Certificate](https://learn.deeplearning.ai/accomplishments/a6dc9bb8-7bd0-4cd0-8541-8963cc224de0) - [Course Catalog](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) [Repository](https://github.com/BertVos-79/reasoning-with-o1_deeplearning.ai)
+>>>
+>>> Collaborative Writing and Coding with OpenAI Canvas
+>>> [Certificate](https://learn.deeplearning.ai/accomplishments/10e709fa-15ad-4583-9068-88e0c103ce44) - [Course Catalog](https://www.deeplearning.ai/short-courses/collaborative-writing-and-coding-with-openai-canvas/)
 
 ---
 
