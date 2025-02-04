@@ -289,6 +289,8 @@ This repository contains certificates I obtained in the broad field of Data Scie
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/3JXECGVHXVB3) - [Course Catalog](https://www.coursera.org/learn/generative-ai-ethical-considerations-and-implications)
 
 
+---
+
 >> #### LLM Engineering: Master AI, Large Language Models & Agents (Udemy - Ed Donner)  
 >> [Certificate](https://www.udemy.com/certificate/UC-a2adc11f-14c7-4275-b58c-3dfb6dd4bc05/) - [Course Catalog](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/) - [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner)
 
@@ -315,10 +317,14 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >>> #### Reasoning with o1 (Deeplearning.ai & OpenAI - Colin Jarvis)
 >>> [Certificate](https://learn.deeplearning.ai/accomplishments/a6dc9bb8-7bd0-4cd0-8541-8963cc224de0) - [Course Catalog](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) - [Repository](https://github.com/BertVos-79/reasoning-with-o1_deeplearning.ai)
->>>
+
+----
+
 >>> #### Collaborative Writing and Coding with OpenAI Canvas (OpenAI - Karina Nguyen)
 >>> [Certificate](https://learn.deeplearning.ai/accomplishments/10e709fa-15ad-4583-9068-88e0c103ce44) - [Course Catalog](https://www.deeplearning.ai/short-courses/collaborative-writing-and-coding-with-openai-canvas/)
->>>
+
+----
+
 >>> #### Enhance Large Language Models Using Structured Context and Retrieval-Augmented Generation (Udemy - Paulo Dichone)  
 >>> [Certificate](https://www.udemy.com/certificate/UC-94eaf7a0-deab-4697-b64f-05393cad887d/) - [Course Catalog](https://www.udemy.com/course/knowledge-graphs-rag/?couponCode=ST5MT020225BROW)
 
