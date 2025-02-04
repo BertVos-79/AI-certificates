@@ -197,12 +197,12 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >> ### SAS
 
->>> #### Getting Started with SAS Programming (SAS)  
+>>> #### 1. Getting Started with SAS Programming (SAS)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/0Z698NQNC683) - [Course Catalog](https://www.coursera.org/learn/sas-programming-basics)
 
 ---
 
->>> #### Doing More with SAS Programming (SAS)  
+>>> #### 2. Doing More with SAS Programming (SAS)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/1JDM43VZJVVN) - [Course Catalog](https://www.coursera.org/learn/sas-programming-advanced)
 
 ---
@@ -211,6 +211,17 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >>> #### Data Analyst Track - Tableau (DataCamp)  
 >>> [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/576b1dfef485da978975bc3b55d65cc1dab6424a) - [Track Catalog](https://www.datacamp.com/completed/statement-of-accomplishment/track/576b1dfef485da978975bc3b55d65cc1dab6424a)
+
+>>>> 1. **Introduction to Tableau**
+>>>> 2. **Analyzing Data in Tableau**
+>>>> 3. **Creating Dashboards in Tableau**
+>>>> 4. **Case Study: Analyzing Customer Churn in Tableau**
+>>>> 5. **Connecting Data in Tableau**
+>>>> 6. **Data Visualization in Tableau**
+>>>> 7. **Calculations in Tableau**
+>>>> 8. **Advanced Data Visualization in Tableau**
+>>>> 9. **Statistical Techniques in Tableau**
+>>>> 10. **Tableau Prep Builder: A Comprehensive Guide to Data Preparation**
 
 ---
 
@@ -241,7 +252,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 ---
 
 
-## C. Deep Learning & LLMs
+## C. Machine Learning and Deep Learning
 
 
 
@@ -277,15 +288,39 @@ This repository contains certificates I obtained in the broad field of Data Scie
 >>> 5. **Generative AI: Impact, Considerations, and Ethical Issues**  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/3JXECGVHXVB3) - [Course Catalog](https://www.coursera.org/learn/generative-ai-ethical-considerations-and-implications)
 
+
+>> #### LLM Engineering: Master AI, Large Language Models & Agents (Udemy - Ed Donner)  
+>> [Certificate](https://www.udemy.com/certificate/UC-a2adc11f-14c7-4275-b58c-3dfb6dd4bc05/) - [Course Catalog](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/) - [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner)
+
+>>> 1. **Week 1 - Build Your First LLM Product: Exploring Top Models & Transformers**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week1)
+>>> 2. **Week 2 - Build a Multi-Modal Chatbot: LLMs, Gradio UI, and Agents in Action**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week2)
+>>> 3. **Week 3 - Open-Source Gen AI: Building Automated Solutions with HuggingFace**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week3)
+>>> 4. **Week 4 - LLM Showdown: Evaluating Models for Code Generation & Business Tasks**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week4)
+>>> 5. **Mastering RAG: Build Advanced Solutions with Vector Embeddings & LangChain**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week5)
+>>> 6. **Week 6: Fine-tuning Frontier Large Language Models with LoRA/QLoRA**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week6)
+>>> 7. **Fine-tuned open-source model to compete with Frontier in price prediction**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week7)
+>>> 8. **Week 8 - Build Autonomous Multi-Agent System Collaborating with Models**  
+>>>    [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner/tree/main/week8)
+
 ---
 
->> #### Short Courses DeepLearning.ai
+>> #### Short Courses
 
->>> Reasoning with o1 (Deeplearning.ai & OpenAI)
+>>> #### Reasoning with o1 (Deeplearning.ai & OpenAI)
 >>> [Certificate](https://learn.deeplearning.ai/accomplishments/a6dc9bb8-7bd0-4cd0-8541-8963cc224de0) - [Course Catalog](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) [Repository](https://github.com/BertVos-79/reasoning-with-o1_deeplearning.ai)
 >>>
->>> Collaborative Writing and Coding with OpenAI Canvas
+>>> #### Collaborative Writing and Coding with OpenAI Canvas
 >>> [Certificate](https://learn.deeplearning.ai/accomplishments/10e709fa-15ad-4583-9068-88e0c103ce44) - [Course Catalog](https://www.deeplearning.ai/short-courses/collaborative-writing-and-coding-with-openai-canvas/)
+>>>
+>>> #### Enhance Large Language Models Using Structured Context and Retrieval-Augmented Generation (Udemy - Paulo Dichone)  
+>>> [Certificate](https://www.udemy.com/certificate/UC-94eaf7a0-deab-4697-b64f-05393cad887d/) - [Course Catalog](https://www.udemy.com/course/knowledge-graphs-rag/?couponCode=ST5MT020225BROW)
 
 ---
 
