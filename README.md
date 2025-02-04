@@ -134,6 +134,32 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
+>>> #### CS50’s Introduction to Programming with Python (Harvard University)  
+>>> [Certificate](https://certificates.cs50.io/d53caeec-fe96-4962-bc0c-26eb299ddd9c.pdf?size=letter) - [Course Website](https://cs50.harvard.edu/python/2022/)
+
+>>>> 1. **Functions & Variables**  
+>>>>    [Problem Set 0 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_0)
+>>>> 2. **Conditionals**  
+>>>>    [Problem Set 1 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_1)
+>>>> 3. **Loops**  
+>>>>    [Problem Set 2 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_2)
+>>>> 4. **Exceptions**  
+>>>>    [Problem Set 3 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_3)
+>>>> 5. **Libraries**  
+>>>>    [Problem Set 4 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_4)
+>>>> 6. **Unit Tests**  
+>>>>    [Problem Set 5 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_5)
+>>>> 7. **File I/O**  
+>>>>    [Problem Set 6 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_6)
+>>>> 8. **Regular Expressions**  
+>>>>    [Problem Set 7 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_7)
+>>>> 9. **Object-Oriented Programming**  
+>>>>    [Problem Set 8 Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_8)
+>>>> 10. **Et Cetera**  
+>>>>     [Problem Set 9: Final Project Repository](https://github.com/BertVos-79/CS50P_Harvard_University/tree/main/problem_set_9_final_project)
+
+---
+
 >>> #### NumPy
 
 >>> #### Preprocessing Data with NumPy (365 Careers)
