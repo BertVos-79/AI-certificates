@@ -19,7 +19,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 - Software Engineering
 - Process Modeling
   
-**C. Machine Learning & LLMs**
+**C. Machine Learning & Deep Learning**
 
 - Machine Learning
 - LLMs
