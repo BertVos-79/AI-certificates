@@ -270,6 +270,26 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
+>> #### AI Programming with Python Nanodegree (Udacity)
+>> [Certificate](https://www.udacity.com/certificate/e/d3bd7a10-9206-11ef-a17f-9b25b28f4407) - [Course Catalog](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
+
+>>> 1. **Course 1: Introduction to AI Programming**
+>>> 2. **Course 2: Introduction to Python for AI Programmers**  
+>>>    [Repository](https://github.com/BertVos-79/Nanodegree_AI_programming_with_Python/tree/main/2_python)
+>>> 3. **Course 3: Numpy, Pandas, Matplotlib**  
+>>>    [Repository](https://github.com/BertVos-79/Nanodegree_AI_programming_with_Python/tree/main/3_numpy_pandas_matplotlib)
+>>> 4. **Course 4: Linear Algebra Essentials**  
+>>>    [Repository](https://github.com/BertVos-79/Nanodegree_AI_programming_with_Python/tree/main/4_linear_algebra)
+>>> 5. **Course 5: Calculus Essentials**
+>>> 6. **Course 6: Neural Networks**  
+>>>    [Repository](https://github.com/BertVos-79/Nanodegree_AI_programming_with_Python/tree/main/6_neural_networks)
+>>> 7. **Course 7: Programming Transformer Neural Networks with PyTorch**  
+>>>    [Repository](https://github.com/BertVos-79/Nanodegree_AI_programming_with_Python/tree/main/7_transformer_neural_networks)
+>>> 8. **Course 8: Project: Create Your Own Image Classifier**  
+>>>    [Repository](https://github.com/BertVos-79/Nanodegree_AI_programming_with_Python/tree/main/8_aipnd-project-master/8_final_image_classifier_project)
+
+---
+
 >> #### Generative AI Specialization (IBM)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/VNO9UE248RO3) - [Specialization Catalog](https://www.coursera.org/specializations/generative-ai-for-everyone)
 
