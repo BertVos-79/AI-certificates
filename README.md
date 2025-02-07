@@ -32,7 +32,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 > ## Mathematics
 
->> #### Algebra: Elementary to Advanced Specialization (Johns Hopkins University)  
+>> ### Algebra: Elementary to Advanced Specialization (Johns Hopkins University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/84L6QL2658NH) - [Specialization Catalog](https://www.coursera.org/specializations/algebra-elementary-to-advanced)
 
 >>> 1. **Algebra: Elementary to Advanced - Equations & Inequalities**  
@@ -46,7 +46,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> #### Precalculus through Data and Modeling Specialization (Johns Hopkins University)
+>> ### Precalculus through Data and Modeling Specialization (Johns Hopkins University)
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/Q9PKO2O06U95) - [Specialization Catalog](https://www.coursera.org/specializations/precalculus-data-modelling?)
 
 >>> 1. **Precalculus: Relations and Functions**  
@@ -60,7 +60,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> #### Differential Calculus through Data & Modeling Specialization (Johns Hopkins University)
+>> ### Differential Calculus through Data & Modeling Specialization (Johns Hopkins University)
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/0KZTZ6DA2XED) - [Specialization Catalog](https://www.coursera.org/specializations/differential-calculus-data-modeling)
 
 >>> 1. **Calculus through Data & Modeling: Precalculus Review**  
@@ -78,19 +78,19 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> #### Data Science Math Skills (Duke University)  
+>> ### Data Science Math Skills (Duke University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/HWHAK77WMMWJ) - [Course Catalog](https://www.coursera.org/learn/datasciencemathskills)
 
 ---
 
 > ## Statistics
 
->> #### Inferential Statistics (Duke University)  
+>> ### Inferential Statistics (Duke University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/E7Q7TTGQHU5N) - [Course Catalog](https://www.coursera.org/learn/inferential-statistics-intro)
 
 ---
 
->> #### The Power of Statistics (Google)  
+>> ### The Power of Statistics (Google)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/4A7GZ765M7PW) - [Course Catalog](https://www.coursera.org/account/accomplishments/verify/4A7GZ765M7PW)
 
 ---
@@ -99,10 +99,10 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >> ### OS, Unix, Git
 
->>> #### Technical Support Fundamentals (Google)  
+>>> ### Technical Support Fundamentals (Google)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/A4ZQN9JNTTAY) - [Course Catalog](https://www.coursera.org/learn/technical-support-fundamentals)
 
->>> #### Unix Systems Basics (Codio)
+>>> ### Unix Systems Basics (Codio)
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/KN9M0XSQ2S8P) - [Course Catalog](https://www.coursera.org/learn/codio-unix-system-basics)
 
 >>> #### Version Control: Git and Github (Meta)
@@ -114,7 +114,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >>> #### Base Library
 
->>> #### Python 3 Programming Specialization (University of Michigan)  
+>>> ### Python 3 Programming Specialization (University of Michigan)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/809ENBAEAEKN) - [Specialization Catalog](https://www.coursera.org/specializations/python-3-programming)
 
 >>>> 1. **Python Basics**  
@@ -134,7 +134,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->>> #### CS50’s Introduction to Programming with Python (Harvard University)  
+>>> ### CS50’s Introduction to Programming with Python (Harvard University)  
 >>> [Certificate](https://certificates.cs50.io/d53caeec-fe96-4962-bc0c-26eb299ddd9c.pdf?size=letter) - [Course Website](https://cs50.harvard.edu/python/2022/)
 
 >>>> 1. **Functions & Variables**  
@@ -162,14 +162,14 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >>> #### NumPy
 
->>> #### Preprocessing Data with NumPy (365 Careers)
+>>> ### Preprocessing Data with NumPy (365 Careers)
 >>> [Certificate](https://www.udemy.com/certificate/UC-64ea18eb-df50-4b43-b56f-c7bd99649c9a/) - [Course Catalog](https://www.udemy.com/course/preprocessing-data-with-numpy/?srsltid=AfmBOoo-Mlqu7WZjYjoTOJLUpQs2-17LaegiNsGXsZggYbWup99oqRoo&couponCode=BFCPSALE24) - [Repository](https://github.com/BertVos-79/Udemy_Preprocessing-Data-with-NumPy_365-Careers)
 
 ---
 
 >>> #### Pandas
 
->>> #### Data Analysis with Pandas and Python Specialization (Packt Publishers)  
+>>> ### Data Analysis with Pandas and Python Specialization (Packt Publishers)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/specialization/1WLAORRSCWPS) - [Specialization Catalog](https://www.coursera.org/specializations/packt-data-analysis-with-pandas-and-python) - [Repository](https://github.com/BertVos-79/data-analysis-with-pandas-and-python-specialization_packt)
 
 >>>> 1. **Foundations of Data Analysis with Pandas and Python**  
@@ -185,31 +185,31 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >> ### R
 
->>> #### Introduction to Probability and Data with R (Duke University)  
+>>> ### Introduction to Probability and Data with R (Duke University)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/0ZBIP75XQG0Q) - [Course Catalog](https://www.coursera.org/learn/probability-intro)
 
 ---
 
->>> #### Data Analysis with R Programming (Google)  
+>>> ### Data Analysis with R Programming (Google)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/VYA1ZWRUCIT5) - [Course Catalog](https://www.coursera.org/learn/data-analysis-r)
 
 ---
 
 >> ### SAS
 
->>> #### 1. Getting Started with SAS Programming (SAS)  
+>>> ### 1. Getting Started with SAS Programming (SAS)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/0Z698NQNC683) - [Course Catalog](https://www.coursera.org/learn/sas-programming-basics)
 
 ---
 
->>> #### 2. Doing More with SAS Programming (SAS)  
+>>> ### 2. Doing More with SAS Programming (SAS)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/1JDM43VZJVVN) - [Course Catalog](https://www.coursera.org/learn/sas-programming-advanced)
 
 ---
 
 >> ### Tableau
 
->>> #### Data Analyst Track - Tableau (DataCamp)  
+>>> ### Data Analyst Track - Tableau (DataCamp)  
 >>> [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/576b1dfef485da978975bc3b55d65cc1dab6424a) - [Track Catalog](https://www.datacamp.com/completed/statement-of-accomplishment/track/576b1dfef485da978975bc3b55d65cc1dab6424a)
 
 >>>> 1. **Introduction to Tableau**
@@ -229,24 +229,24 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >> ### Software Engineering
 
->>> #### UMLx: UML Class Diagrams for Software Engineering (KU LeuvenX)  
+>>> ### UMLx: UML Class Diagrams for Software Engineering (KU LeuvenX)  
 >>> [Certificate](https://courses.edx.org/certificates/048deeeb38ff45b2bbb8e5f7fb842ca6) - [Course Catalog](https://www.edx.org/learn/software-engineering/ku-leuven-uml-class-diagrams-for-software-engineering)
 
 ---
 
 >> ### Process Modeling
 
->>> #### Celonis - Foundations  
+>>> ### Celonis - Foundations  
 >>> [Certificate](https://www.credly.com/badges/ae7df360-ad42-4554-a8ce-2fe881b296e5/linked_in_profile) - [Course Catalog](https://academy.celonis.com/courses/celonis-kickstarter-1)
 
 ---
 
->>> #### Celonis - Build Analyses  
+>>> ### Celonis - Build Analyses  
 >>> [Certificate](https://www.credly.com/badges/848f5b3d-eccf-46f9-8cdc-e6bfc95b0336/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/build-analyses-basics?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
 
 ---
 
->>> #### Celonis - Review and Interpret Analyses  
+>>> ### Celonis - Review and Interpret Analyses  
 >>> [Certificate](https://www.credly.com/badges/eb3326e6-37d0-43bc-96c9-22e6f76f6421/linked_in_profile) - [Course Catalog](https://academy.celonis.com/learning-paths/review-and-interpret-analyses?sessionFields=%5B%5B%22type%22%2C%22Training%20Track%22%5D%5D)
 
 ---
@@ -256,7 +256,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 
 
->> #### Machine Learning Specialization  (Deeplearning.ai/Stanford University)  
+>> ### Machine Learning Specialization  (Deeplearning.ai/Stanford University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/HAQMADV8LFGQ) - [Specialization Catalog](https://www.coursera.org/specializations/machine-learning-introduction)
 
 >> 1. **Supervised Machine Learning: Regression and Classification**  
@@ -270,7 +270,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> #### AI Programming with Python Nanodegree (Udacity)
+>> ### AI Programming with Python Nanodegree (Udacity)
 >> [Certificate](https://www.udacity.com/certificate/e/d3bd7a10-9206-11ef-a17f-9b25b28f4407) - [Course Catalog](https://www.udacity.com/course/ai-programming-python-nanodegree--nd089)
 
 >>> 1. **Course 1: Introduction to AI Programming**
@@ -290,7 +290,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> #### Generative AI Specialization (IBM)  
+>> ### Generative AI Specialization (IBM)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/specialization/VNO9UE248RO3) - [Specialization Catalog](https://www.coursera.org/specializations/generative-ai-for-everyone)
 
 >>> 1. **Generative AI: Prompt Engineering Basics**  
@@ -311,7 +311,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> #### LLM Engineering: Master AI, Large Language Models & Agents (Udemy - Ed Donner)  
+>> ### LLM Engineering: Master AI, Large Language Models & Agents (Udemy - Ed Donner)  
 >> [Certificate](https://www.udemy.com/certificate/UC-a2adc11f-14c7-4275-b58c-3dfb6dd4bc05/) - [Course Catalog](https://www.udemy.com/course/llm-engineering-master-ai-and-large-language-models/) - [Repository](https://github.com/BertVos-79/llm_engineering_ed_donner)
 
 >>> 1. **Week 1 - Build Your First LLM Product: Exploring Top Models & Transformers**  
@@ -335,32 +335,32 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 >> #### Short Courses
 
->>> #### Reasoning with o1 (Deeplearning.ai & OpenAI - Colin Jarvis)
+>>> ### Reasoning with o1 (Deeplearning.ai & OpenAI - Colin Jarvis)
 >>> [Certificate](https://learn.deeplearning.ai/accomplishments/a6dc9bb8-7bd0-4cd0-8541-8963cc224de0) - [Course Catalog](https://www.deeplearning.ai/short-courses/reasoning-with-o1/) - [Repository](https://github.com/BertVos-79/reasoning-with-o1_deeplearning.ai)
 
 ----
 
->>> #### Collaborative Writing and Coding with OpenAI Canvas (OpenAI - Karina Nguyen)
+>>> ### Collaborative Writing and Coding with OpenAI Canvas (OpenAI - Karina Nguyen)
 >>> [Certificate](https://learn.deeplearning.ai/accomplishments/10e709fa-15ad-4583-9068-88e0c103ce44) - [Course Catalog](https://www.deeplearning.ai/short-courses/collaborative-writing-and-coding-with-openai-canvas/)
 
 ----
 
->>> #### Enhance Large Language Models Using Structured Context and Retrieval-Augmented Generation (Udemy - Paulo Dichone)  
+>>> ### Enhance Large Language Models Using Structured Context and Retrieval-Augmented Generation (Udemy - Paulo Dichone)  
 >>> [Certificate](https://www.udemy.com/certificate/UC-94eaf7a0-deab-4697-b64f-05393cad887d/) - [Course Catalog](https://www.udemy.com/course/knowledge-graphs-rag/?couponCode=ST5MT020225BROW)
 
 ---
 
 ## D. Educational Applications in AI
 
->> #### Introduction to Edtech (EDHEC Business School)  
+>> ### Introduction to Edtech (EDHEC Business School)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/BK8LZ5WGAGZW) - [Course Catalog](https://www.coursera.org/learn/introduction-to-edtech)
 
 ---
 
->> #### Generative AI in Education (University of Glasgow)  
+>> ### Generative AI in Education (University of Glasgow)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/6QSFTBBPF544) - [Course Catalog](https://www.coursera.org/learn/generative-ai-in-education)
 
 ---
 
->> #### Online Education: The Foundations of Online Teaching (Macquarie University)  
+>> ### Online Education: The Foundations of Online Teaching (Macquarie University)  
 >> [Certificate](https://www.coursera.org/account/accomplishments/verify/6M53ZXYWNLES) - [Course Catalog](https://www.coursera.org/learn/the-foundations-of-online-teaching)
