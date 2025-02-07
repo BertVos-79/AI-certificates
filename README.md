@@ -97,7 +97,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 > ## Programming
 
->> ### OS, Unix, Git
+>> #### OS, Unix, Git
 
 >>> ### Technical Support Fundamentals (Google)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/A4ZQN9JNTTAY) - [Course Catalog](https://www.coursera.org/learn/technical-support-fundamentals)
@@ -110,7 +110,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> ### Python
+>> #### Python
 
 >>> #### Base Library
 
@@ -183,7 +183,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> ### R
+>> #### R
 
 >>> ### Introduction to Probability and Data with R (Duke University)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/0ZBIP75XQG0Q) - [Course Catalog](https://www.coursera.org/learn/probability-intro)
@@ -195,7 +195,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> ### SAS
+>> #### SAS
 
 >>> ### 1. Getting Started with SAS Programming (SAS)  
 >>> [Certificate](https://www.coursera.org/account/accomplishments/verify/0Z698NQNC683) - [Course Catalog](https://www.coursera.org/learn/sas-programming-basics)
@@ -207,7 +207,7 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ---
 
->> ### Tableau
+>> #### Tableau
 
 >>> ### Data Analyst Track - Tableau (DataCamp)  
 >>> [Certificate](https://www.datacamp.com/completed/statement-of-accomplishment/track/576b1dfef485da978975bc3b55d65cc1dab6424a) - [Track Catalog](https://www.datacamp.com/completed/statement-of-accomplishment/track/576b1dfef485da978975bc3b55d65cc1dab6424a)
@@ -227,14 +227,14 @@ This repository contains certificates I obtained in the broad field of Data Scie
 
 ## B. Modeling
 
->> ### Software Engineering
+>> #### Software Engineering
 
 >>> ### UMLx: UML Class Diagrams for Software Engineering (KU LeuvenX)  
 >>> [Certificate](https://courses.edx.org/certificates/048deeeb38ff45b2bbb8e5f7fb842ca6) - [Course Catalog](https://www.edx.org/learn/software-engineering/ku-leuven-uml-class-diagrams-for-software-engineering)
 
 ---
 
->> ### Process Modeling
+>> #### Process Modeling
 
 >>> ### Celonis - Foundations  
 >>> [Certificate](https://www.credly.com/badges/ae7df360-ad42-4554-a8ce-2fe881b296e5/linked_in_profile) - [Course Catalog](https://academy.celonis.com/courses/celonis-kickstarter-1)
